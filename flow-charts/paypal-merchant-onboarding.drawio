@@ -178,7 +178,7 @@
         <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-1" target="JIbJfcNN-nFoBIgTuptf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JIbJfcNN-nFoBIgTuptf-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIbJfcNN-nFoBIgTuptf-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="364" y="80" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-2" target="JIbJfcNN-nFoBIgTuptf-3">
@@ -199,13 +199,13 @@
         <mxCell id="JIbJfcNN-nFoBIgTuptf-4" value="Enter Business Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="343" y="290" width="137" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JIbJfcNN-nFoBIgTuptf-7" value="Legal Business Name&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Business Address&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Business Type&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Contact Information&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="JIbJfcNN-nFoBIgTuptf-7" value="Legal Business Name&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Business Address&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Business Type&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Contact Information&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-8" target="JIbJfcNN-nFoBIgTuptf-15">
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-10" value="&lt;b&gt;New User&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-8" target="JIbJfcNN-nFoBIgTuptf-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-8" target="JIbJfcNN-nFoBIgTuptf-9">
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-11" value="&lt;b&gt;Existing Personal User&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-8" target="JIbJfcNN-nFoBIgTuptf-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIbJfcNN-nFoBIgTuptf-8" value="New or Existing User" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -226,7 +226,10 @@
         <mxCell id="JIbJfcNN-nFoBIgTuptf-12" value="Verify Email Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355.75" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIbJfcNN-nFoBIgTuptf-13" value="Submit Business Documnetation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-13" target="JIbJfcNN-nFoBIgTuptf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIbJfcNN-nFoBIgTuptf-13" value="Submit Business Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355.75" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-15" target="JIbJfcNN-nFoBIgTuptf-12">
@@ -235,29 +238,55 @@
         <mxCell id="JIbJfcNN-nFoBIgTuptf-15" value="Create Paypal Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="450" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-16" value="Approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-16" target="JIbJfcNN-nFoBIgTuptf-19">
+          <mxGeometry x="0.6975" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-22" value="&lt;b&gt;Pending&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-16" target="JIbJfcNN-nFoBIgTuptf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JIbJfcNN-nFoBIgTuptf-16" value="Verification Status" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356.25" y="730" width="127.5" height="100" as="geometry" />
+          <mxGeometry x="351.5" y="730" width="127.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JIbJfcNN-nFoBIgTuptf-18" value="Business License&amp;nbsp;&lt;div&gt;Tax ID Document&lt;/div&gt;&lt;div&gt;Owner Identification&lt;/div&gt;&lt;div&gt;Industry details&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="740" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JIbJfcNN-nFoBIgTuptf-19" value="Link Bank Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-19" target="JIbJfcNN-nFoBIgTuptf-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JIbJfcNN-nFoBIgTuptf-20" value="Manual Review 2-4 Weeks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="JIbJfcNN-nFoBIgTuptf-19" value="Link Bank Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIbJfcNN-nFoBIgTuptf-20" value="Manual Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="875" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JIbJfcNN-nFoBIgTuptf-21" value="Resubmit Documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="870" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-22" target="JIbJfcNN-nFoBIgTuptf-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIbJfcNN-nFoBIgTuptf-22" value="Select Payment Solutions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-23" target="JIbJfcNN-nFoBIgTuptf-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIbJfcNN-nFoBIgTuptf-23" value="Accept Legal Agreements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIbJfcNN-nFoBIgTuptf-24" value="Account Activated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1170" width="120" height="60" as="geometry" />
+        <mxCell id="JIbJfcNN-nFoBIgTuptf-24" value="Account Activated" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ef3LMupbQL8ZXkhZZ35Q-18" value="&lt;b&gt;Rejected&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.572;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JIbJfcNN-nFoBIgTuptf-16" target="JIbJfcNN-nFoBIgTuptf-21">
+          <mxGeometry x="0.8357" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="810" />
+              <mxPoint x="639" y="810" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
