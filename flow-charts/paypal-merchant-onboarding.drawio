@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4" pages="2">
   <diagram name="API_driven_Onboarding" id="wWZD42jAFgPFImZ6PZbN">
-    <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         <mxCell id="_dLaWfmIIYTCIAaOerGN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_dLaWfmIIYTCIAaOerGN-5" target="_dLaWfmIIYTCIAaOerGN-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_dLaWfmIIYTCIAaOerGN-5" value="Apply for Merchant Services" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_dLaWfmIIYTCIAaOerGN-5" value="Apply for Merchant Services&lt;br&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;/v2/customer/partner-referrals&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="320" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_dLaWfmIIYTCIAaOerGN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_dLaWfmIIYTCIAaOerGN-8" target="_dLaWfmIIYTCIAaOerGN-10" edge="1">
@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0DnkfBZBkiZkFcXIVfkG-2" value="Get Client ID &amp;amp; Secret" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="200" width="130" height="30" as="geometry" />
+          <mxGeometry x="320" y="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0DnkfBZBkiZkFcXIVfkG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_dLaWfmIIYTCIAaOerGN-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -149,8 +149,8 @@
             <mxPoint x="390" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0DnkfBZBkiZkFcXIVfkG-6" value="Get Access Token" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="250" width="190" height="40" as="geometry" />
+        <mxCell id="0DnkfBZBkiZkFcXIVfkG-6" value="Get Access Token &lt;br&gt;(&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;https://api-m.sandbox.paypal.com/&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;/v1/oauth2/token)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="250" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LYH2kiVl-Ig2eaK8wPI--2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_dLaWfmIIYTCIAaOerGN-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
