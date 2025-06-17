@@ -84,8 +84,8 @@
         <mxCell id="fL3iVykuM5IId6oujxRv-43" value="Get Access Token &lt;br&gt;(&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(0, 83, 184); background-color: rgb(249, 249, 249);&quot;&gt;{{base_url}}&lt;/span&gt;/v1/oauth2/token)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
           <mxGeometry x="275" y="250" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-46" value="&lt;b&gt;One time partner Onboarding&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
-          <mxGeometry x="110" y="140" width="170" height="30" as="geometry" />
+        <mxCell id="fL3iVykuM5IId6oujxRv-46" value="&lt;b&gt;Partner Onboarding (One time process)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="510" y="140" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-41" target="fL3iVykuM5IId6oujxRv-20">
           <mxGeometry relative="1" as="geometry" />
