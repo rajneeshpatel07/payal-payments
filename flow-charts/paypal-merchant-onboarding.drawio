@@ -253,12 +253,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="API_driven_Onboarding_v1.0" id="wWZD42jAFgPFImZ6PZbN">
+  <diagram name="(Old) API_driven_Onboarding_v1.0" id="wWZD42jAFgPFImZ6PZbN">
     <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F7vniRP8Im6kEhmp5TsT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="F7vniRP8Im6kEhmp5TsT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="95" y="130" width="615" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_dLaWfmIIYTCIAaOerGN-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -424,7 +424,7 @@
         <mxCell id="gyKiG7uHMAiJ7Bx-N5Hc-1" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;Yellow color represents Manual step&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;Base url -&amp;nbsp;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;https://api-m.sandbox.paypal.com&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="600" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="F7vniRP8Im6kEhmp5TsT-3" value="&lt;b&gt;One time partner Onboarding&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F7vniRP8Im6kEhmp5TsT-3" value="&lt;b&gt;One time partner Onboarding&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="140" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
