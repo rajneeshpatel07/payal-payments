@@ -61,7 +61,7 @@
           <mxGeometry x="180" y="690" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-36" value="API driven Onboarding&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
-          <mxGeometry x="285" y="50" width="160" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="40" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.455;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-5" target="fL3iVykuM5IId6oujxRv-38">
           <mxGeometry relative="1" as="geometry">
