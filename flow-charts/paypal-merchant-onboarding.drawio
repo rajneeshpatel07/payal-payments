@@ -4,8 +4,10 @@
       <root>
         <mxCell id="fL3iVykuM5IId6oujxRv-0" />
         <mxCell id="fL3iVykuM5IId6oujxRv-1" parent="fL3iVykuM5IId6oujxRv-0" />
-        <mxCell id="XIdSo00pW9B0BYd-6H91-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-3" target="fL3iVykuM5IId6oujxRv-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XIdSo00pW9B0BYd-6H91-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-3" target="fL3iVykuM5IId6oujxRv-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uISl3yLY0m62wZy4W-6--1" value="&lt;b&gt;Make request using Merchant Access Token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="170" y="640" width="210" height="30" as="geometry" />
@@ -42,23 +44,17 @@
         <mxCell id="fL3iVykuM5IId6oujxRv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-26" target="fL3iVykuM5IId6oujxRv-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-26" value="Get Merchant Access Token" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="160" y="760" width="190" height="40" as="geometry" />
+        <mxCell id="fL3iVykuM5IId6oujxRv-26" value="Get Merchant Access Token (Use authorization code and merchant id)" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="160" y="720" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-28" target="fL3iVykuM5IId6oujxRv-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-28" value="&lt;br&gt;Make API Calls&lt;br&gt;like( Order creation,order confirmation capture)" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="148.75" y="850" width="212.5" height="60" as="geometry" />
+          <mxGeometry x="153.75" y="820" width="212.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-29" value="End" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="195" y="970" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-31" target="fL3iVykuM5IId6oujxRv-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-31" value="Exchange code for tokens" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="180" y="690" width="150" height="30" as="geometry" />
+          <mxGeometry x="195" y="915" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-36" value="API driven Onboarding&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="307.5" y="40" width="160" height="30" as="geometry" />
