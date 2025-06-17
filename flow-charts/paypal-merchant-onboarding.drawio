@@ -4,8 +4,14 @@
       <root>
         <mxCell id="fL3iVykuM5IId6oujxRv-0" />
         <mxCell id="fL3iVykuM5IId6oujxRv-1" parent="fL3iVykuM5IId6oujxRv-0" />
+        <mxCell id="XIdSo00pW9B0BYd-6H91-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-3" target="fL3iVykuM5IId6oujxRv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uISl3yLY0m62wZy4W-6--1" value="&lt;b&gt;Make request using Merchant Access Token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="170" y="640" width="210" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
-          <mxGeometry x="95" y="130" width="615" height="180" as="geometry" />
+          <mxGeometry x="95" y="130" width="615" height="190" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-3" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
           <mxGeometry x="330" y="90" width="90" height="30" as="geometry" />
@@ -36,7 +42,7 @@
         <mxCell id="fL3iVykuM5IId6oujxRv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-26" target="fL3iVykuM5IId6oujxRv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-26" value="Get Access Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+        <mxCell id="fL3iVykuM5IId6oujxRv-26" value="Get Merchant Access Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
           <mxGeometry x="160" y="760" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-28" target="fL3iVykuM5IId6oujxRv-29">
@@ -78,23 +84,17 @@
         <mxCell id="fL3iVykuM5IId6oujxRv-43" value="Get Access Token &lt;br&gt;(&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(0, 83, 184); background-color: rgb(249, 249, 249);&quot;&gt;{{base_url}}&lt;/span&gt;/v1/oauth2/token)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
           <mxGeometry x="275" y="250" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-45" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;Yellow color represents Manual step&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;Base url -&amp;nbsp;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;https://api-m.sandbox.paypal.com&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
-          <mxGeometry x="560" y="340" width="190" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-46" value="&lt;b&gt;One time partner Onboarding&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
           <mxGeometry x="110" y="140" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-41" target="fL3iVykuM5IId6oujxRv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XIdSo00pW9B0BYd-6H91-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-3" target="fL3iVykuM5IId6oujxRv-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-3" target="XIdSo00pW9B0BYd-6H91-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-3" value="Select Order route" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
-          <mxGeometry x="356.25" y="610" width="92.5" height="80" as="geometry" />
+          <mxGeometry x="356.25" y="590" width="92.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-14" target="fL3iVykuM5IId6oujxRv-24">
           <mxGeometry relative="1" as="geometry" />
@@ -111,8 +111,23 @@
         <mxCell id="XIdSo00pW9B0BYd-6H91-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-17" target="fL3iVykuM5IId6oujxRv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XIdSo00pW9B0BYd-6H91-17" value="get access token from partner id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+        <mxCell id="XIdSo00pW9B0BYd-6H91-17" value="get partner access token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
           <mxGeometry x="690" y="705" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uISl3yLY0m62wZy4W-6--0" value="&lt;b&gt;Make request using Merchant id and Partner Access Token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="465" y="650" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qL57dTV3XzLT6LReegqx-0" value="" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;strokeColor=default;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="580" y="950" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qL57dTV3XzLT6LReegqx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="590" y="960" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qL57dTV3XzLT6LReegqx-2" value="&lt;b&gt;Manual Process&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="670" y="955" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSHzXjA4AU0vsKMvuT8g-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Base url - &lt;/b&gt;https://api-m.sandbox.paypal.com&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="590" y="985" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
