@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="3">
   <diagram name="API_driven_Onboarding_v1.1" id="b-558ikwMLMobhReqJsA">
-    <mxGraphModel dx="778" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fL3iVykuM5IId6oujxRv-0" />
         <mxCell id="fL3iVykuM5IId6oujxRv-1" parent="fL3iVykuM5IId6oujxRv-0" />
-        <mxCell id="Ill-mI-U5PjIU4i5pjc6-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FCFF;fontColor=#333333;strokeColor=#666666;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+        <mxCell id="jhsTu4ae9gsyX8oA7v3f-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;dashed=1;dashPattern=8 8;strokeColor=#56517e;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="50" y="675" width="690" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="Ill-mI-U5PjIU4i5pjc6-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FCFF;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="95" y="250" width="615" height="340" as="geometry" />
         </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="XIdSo00pW9B0BYd-6H91-3" target="fL3iVykuM5IId6oujxRv-26" edge="1">
@@ -15,7 +18,7 @@
         <mxCell id="uISl3yLY0m62wZy4W-6--1" value="&lt;b&gt;Merchant&#39;s website&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="120" y="645" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+        <mxCell id="fL3iVykuM5IId6oujxRv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="95" y="130" width="615" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-3" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
@@ -33,13 +36,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-20" value="&lt;span&gt;Merchant Login &amp;amp; Consent (Username and Password)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="295" y="440" width="160" height="40" as="geometry" />
+          <mxGeometry x="300" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XIdSo00pW9B0BYd-6H91-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-24" target="XIdSo00pW9B0BYd-6H91-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-24" value="Authorization code,Merchant id in URL" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="260" y="510" width="230" height="40" as="geometry" />
+          <mxGeometry x="265" y="510" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-26" target="fL3iVykuM5IId6oujxRv-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,11 +53,11 @@
         <mxCell id="fL3iVykuM5IId6oujxRv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-28" target="lv52Fw-uy7b2D_ybF-8--16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-28" value="Order Creation&lt;br&gt;(use access token to initiate order)&lt;br&gt;&lt;span style=&quot;padding: var(--spacing-zero) 2px 1px; margin-left: var(--spacing-zero); border-radius: var(--border-radius-default); cursor: text; background: var(--background-color-secondary); color: var(--content-color-info); border: 1px solid var(--border-color-default); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve;&quot; data-testid=&quot;resolvedVariable&quot; class=&quot;inlineVariable resolvedVariable&quot; spellcheck=&quot;false&quot;&gt;{{base_url}}&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;50lvt-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;/v2/checkout/orders&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="306.25" y="830" width="230" height="60" as="geometry" />
+        <mxCell id="fL3iVykuM5IId6oujxRv-28" value="Order Creation&lt;br&gt;&lt;span style=&quot;padding: var(--spacing-zero) 2px 1px; margin-left: var(--spacing-zero); border-radius: var(--border-radius-default); cursor: text; background: var(--background-color-secondary); color: var(--content-color-info); border: 1px solid var(--border-color-default); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve;&quot; data-testid=&quot;resolvedVariable&quot; class=&quot;inlineVariable resolvedVariable&quot; spellcheck=&quot;false&quot;&gt;{{base_url}}&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;50lvt-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;/v2/checkout/orders&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="306.25" y="800" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-29" value="End" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="385" y="1100" width="120" height="40" as="geometry" />
+          <mxGeometry x="361.25" y="997" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-36" value="API driven Onboarding&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="310" y="20" width="160" height="30" as="geometry" />
@@ -68,8 +71,8 @@
         <mxCell id="fL3iVykuM5IId6oujxRv-38" value="Get Client ID &amp;amp; Secret" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
           <mxGeometry x="310" y="190" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fL3iVykuM5IId6oujxRv-41" value="Apply for Merchant Services&lt;br&gt;&lt;span style=&quot;white-space-collapse: preserve; color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(0, 83, 184); background-color: rgb(249, 249, 249);&quot;&gt;{{base_url}}&lt;/span&gt;/v2/customer/partner-referrals Response : Fetch Action URL for merchant login&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFBCAE;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="213.75" y="360" width="322.5" height="60" as="geometry" />
+        <mxCell id="fL3iVykuM5IId6oujxRv-41" value="Apply for Merchant Services&lt;br&gt;&lt;span style=&quot;white-space-collapse: preserve; color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(0, 83, 184); background-color: rgb(249, 249, 249);&quot;&gt;{{base_url}}&lt;/span&gt;/v2/customer/partner-referrals Response : Fetch Action URL for merchant login&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="218.75" y="360" width="322.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fL3iVykuM5IId6oujxRv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.455;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fL3iVykuM5IId6oujxRv-1" source="fL3iVykuM5IId6oujxRv-38" target="fL3iVykuM5IId6oujxRv-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -146,38 +149,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lv52Fw-uy7b2D_ybF-8--14" value="" style="group" parent="fL3iVykuM5IId6oujxRv-1" vertex="1" connectable="0">
-          <mxGeometry x="620" y="920" width="220" height="150" as="geometry" />
+        <mxCell id="lv52Fw-uy7b2D_ybF-8--15" value="Capture Payment&lt;br&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;ea4i1-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;&lt;span style=&quot;color: rgb(0, 83, 184); background-color: rgb(249, 249, 249);&quot;&gt;{{base_url}}&lt;/span&gt;/v2/checkout/orders/:order_id/capture&lt;/span&gt;&lt;/span&gt;" style="rounded=0;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="271.25" y="935" width="300" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="qL57dTV3XzLT6LReegqx-0" value="" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;strokeColor=default;" parent="lv52Fw-uy7b2D_ybF-8--14" vertex="1">
-          <mxGeometry width="190" height="150" as="geometry" />
+        <mxCell id="lv52Fw-uy7b2D_ybF-8--16" value="Confirm Payment&lt;div&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;4tcg3-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;&lt;span style=&quot;color: rgb(0, 83, 184); background-color: rgb(249, 249, 249);&quot;&gt;{{base_url}}&lt;/span&gt;/v2/checkout/orders/:order_id/confirm-payment-source&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="271.25" y="862" width="300" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="qL57dTV3XzLT6LReegqx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lv52Fw-uy7b2D_ybF-8--14" vertex="1">
-          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qL57dTV3XzLT6LReegqx-2" value="&lt;b&gt;Manual Process&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lv52Fw-uy7b2D_ybF-8--14" vertex="1">
-          <mxGeometry x="90" y="5" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSHzXjA4AU0vsKMvuT8g-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Base url - &lt;/b&gt;https://api-m.sandbox.paypal.com&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lv52Fw-uy7b2D_ybF-8--14" vertex="1">
-          <mxGeometry x="10" y="70" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lv52Fw-uy7b2D_ybF-8--15" value="Capture Payment&lt;br&gt;(used the order_id to capture funds from user&#39;s payment method)&lt;br&gt;&lt;span style=&quot;padding: var(--spacing-zero) 2px 1px; margin-left: var(--spacing-zero); border-radius: var(--border-radius-default); cursor: text; background: var(--background-color-secondary); color: var(--content-color-info); border: 1px solid var(--border-color-default); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve;&quot; data-testid=&quot;resolvedVariable&quot; class=&quot;inlineVariable resolvedVariable&quot; spellcheck=&quot;false&quot;&gt;{{base_url}}&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;ea4i1-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;/v2/checkout/orders/:order_id/capture&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="320" y="1010" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lv52Fw-uy7b2D_ybF-8--16" value="Confirm Payment&lt;div&gt;(used to confirm that payment source)&lt;br&gt;&lt;span style=&quot;padding: var(--spacing-zero) 2px 1px; margin-left: var(--spacing-zero); border-radius: var(--border-radius-default); cursor: text; background: var(--background-color-secondary); color: var(--content-color-info); border: 1px solid var(--border-color-default); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve;&quot; data-testid=&quot;resolvedVariable&quot; class=&quot;inlineVariable resolvedVariable&quot; spellcheck=&quot;false&quot;&gt;{{base_url}}&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;4tcg3-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;/v2/checkout/orders/:order_id/confirm-payment-source&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
-          <mxGeometry x="280" y="910" width="300" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lv52Fw-uy7b2D_ybF-8--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fL3iVykuM5IId6oujxRv-1" source="lv52Fw-uy7b2D_ybF-8--16" target="lv52Fw-uy7b2D_ybF-8--15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="579" y="790" as="sourcePoint" />
-            <mxPoint x="400" y="835" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lv52Fw-uy7b2D_ybF-8--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.456;exitY=0.932;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="fL3iVykuM5IId6oujxRv-1" source="lv52Fw-uy7b2D_ybF-8--15" target="fL3iVykuM5IId6oujxRv-29" edge="1">
+        <mxCell id="lv52Fw-uy7b2D_ybF-8--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="fL3iVykuM5IId6oujxRv-1" source="lv52Fw-uy7b2D_ybF-8--15" target="fL3iVykuM5IId6oujxRv-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1030" as="sourcePoint" />
             <mxPoint x="250" y="1060" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jhsTu4ae9gsyX8oA7v3f-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fL3iVykuM5IId6oujxRv-1" source="lv52Fw-uy7b2D_ybF-8--16" target="lv52Fw-uy7b2D_ybF-8--15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="890" as="sourcePoint" />
+            <mxPoint x="670" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZSHzXjA4AU0vsKMvuT8g-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Base url - &lt;/b&gt;https://api-m.sandbox.paypal.com&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="470" y="1060" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qL57dTV3XzLT6LReegqx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="20" y="1065" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qL57dTV3XzLT6LReegqx-2" value="&lt;b&gt;Manual Process&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fL3iVykuM5IId6oujxRv-1" vertex="1">
+          <mxGeometry x="100" y="1060" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhsTu4ae9gsyX8oA7v3f-3" value="&lt;b&gt;Order Processing&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fL3iVykuM5IId6oujxRv-1">
+          <mxGeometry x="585" y="830" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
